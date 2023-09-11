@@ -9,7 +9,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Pyton" height="30" width="40"
-    src= <img src="https://www.clipartmax.com/png/small/436-4366721_python-logo-clipart-zoo-python-logo-transparent-"> 
+    src= "https://www.clipartmax.com/png/middle/436-4366721_python-logo-clipart-zoo-python-logo-transparent-background.png" >
 
   
 </div>
