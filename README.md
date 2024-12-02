@@ -7,7 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="Pyton" height="30" width="40"
     src= "https://brandlogos.net/wp-content/uploads/2020/12/python-logo-512x512.png" >
 
